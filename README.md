@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Hugo 👋
 
-<!--
-**Hugo-loio/Hugo-loio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student in theoretical quantum physics focusing on the dynamics, complexity, and computational simulatability of many-body systems. 
 
-Here are some ideas to get you started:
+### 🔬 Research & Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ I'm working on high-performance numerical methods for simulating quantum systems. Check them out on [quantum-simulations](https://github.com/Hugo-loio/quantum-simulations).
+- ✏️ I'm developing [tensordraw](https://github.com/Hugo-loio/tensordraw), a Python tool for drawing tensor network diagrams.
+
+### 🛠️ Favourite tools
+
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)
+![archlinux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
