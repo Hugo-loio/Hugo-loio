@@ -1,12 +1,18 @@
 # Hi there, I'm Hugo 👋
 
-I'm a PhD student in theoretical quantum physics focusing on the dynamics, complexity, and computational simulatability of many-body systems. 
+I'm a Postdoctoral researcher in theoretical quantum physics.
+
+### 🔬 Research topics
+* Tensor networks and quantum-inspired algorithms
+* Monitored and open quantum dynamics
+* Quantum resource dynamics: entanglement, magic, and state designs
+* Classical simulability and complexity of quantum many-body systems
 
 ### 🚀 Projects
 
-- ⚛️ I'm working on high-performance numerical methods for simulating quantum systems. Check them out on [quantum-simulations](https://github.com/Hugo-loio/quantum-simulations).
-- ✏️ I'm developing [tensordraw](https://github.com/Hugo-loio/tensordraw), a Python tool for drawing tensor network diagrams.
-- 💪 I wrote a [guide](https://hugoloio.gumroad.com/l/calisthenics-guide) for designing your own Calisthenics routine in LaTeX. 
+- I'm working on high-performance numerical methods for simulating quantum systems. Check them out on [quantum-simulations](https://github.com/Hugo-loio/quantum-simulations).
+- I'm developing [tensordraw](https://github.com/Hugo-loio/tensordraw), a Python tool for drawing tensor network diagrams.
+- I wrote a [guide](https://hugoloio.gumroad.com/l/calisthenics-guide) for designing your own Calisthenics routine in LaTeX. 
 
 ### 🛠️ Favourite tools
 
